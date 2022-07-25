@@ -20,3 +20,5 @@ Response time will be much faster.
 ### Enhanced Webhooks
 Proxy webhooks with figma-file-proxy-server's features
 
+### Cross Sync & Diff
+Push changes with proxy, sync with plugin and track diffs in-between 
