@@ -22,3 +22,10 @@ Proxy webhooks with figma-file-proxy-server's features
 
 ### Cross Sync & Diff
 Push changes with proxy, sync with plugin and track diffs in-between 
+
+
+### Reserved Urls
+Fetching preview & for baking design to image, you can use reserved url right away.
+For example, 
+
+`https://your-figma-proxy-host.com/images/XXXX@2x.png`
