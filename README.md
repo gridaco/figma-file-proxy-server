@@ -29,3 +29,7 @@ Fetching preview & for baking design to image, you can use reserved url right aw
 For example, 
 
 `https://your-figma-proxy-host.com/images/XXXX@2x.png`
+
+
+### Custom embeddings
+You can make custom design embeddings with [figma-view](https://github.com/gridaco/figma-view), with your own branding.
