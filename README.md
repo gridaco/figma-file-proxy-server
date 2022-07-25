@@ -42,12 +42,11 @@ Extended response
 ```json
 {
     ...
-    version: '',
-    indexing: true,
-    has_updates: false,
-    indexing_progress: {
-      file: 'indexing',
-      images: 'indexed'
+    "indexing": true,
+    "has_updates": false,
+    "indexing_progress": {
+      "file": "indexing",
+      "images": "indexed"
     }
 }
 ```
