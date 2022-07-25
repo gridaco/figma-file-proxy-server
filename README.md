@@ -33,3 +33,21 @@ For example,
 
 ### Custom embeddings
 You can make custom design embeddings with [figma-view](https://github.com/gridaco/figma-view), with your own branding.
+
+
+## Changes
+
+### `/files`
+Extended response
+```json
+{
+    ...
+    version: '',
+    indexing: true,
+    has_updates: false,
+    indexing_progress: {
+      file: 'indexing',
+      images: 'indexed'
+    }
+}
+```
