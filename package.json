@@ -1,0 +1,13 @@
+{
+  "name": "figma-file-proxy-server",
+  "version": "0.0.0",
+  "description": "Faster Figma proxy api with caching",
+  "main": "index.js",
+  "repository": "https://github.com/gridaco/figma-file-proxy-server.git",
+  "author": "Universe <woojoo@softmarshmallow.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@vendia/serverless-express": "^4.10.1"
+  }
+}
